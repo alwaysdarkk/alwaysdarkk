@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Desenvolvedor na Rede Winter.
+- 💼 Trabalhando como Desenvolvedor freelancer.
 - 🌱 Aprendendo mais sobre Spring.
 
 ## Minhas Skills

@@ -5,3 +5,4 @@ Meu nome é Caio, e atuo como desenvolvedor Java e Kotlin com foco na criação 
 
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
+[<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Kotlin"/></code>](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png)
